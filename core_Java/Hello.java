@@ -1,4 +1,4 @@
-package Java;
+package Java.core_Java;
 
 // jshell is introduced in java 9 and it is the env where we can run java code
 // directly without having classes and complete proper structure.
