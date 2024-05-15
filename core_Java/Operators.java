@@ -1,6 +1,6 @@
 package Java.core_Java;
 
-class Operate {
+class Operators {
 
    public static void main(String a[]) {
       //## Arithmetic operator ;
